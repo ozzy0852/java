@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d103a693-ce20-4231-b03a-225ad51a87b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson1/PrintTestMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson1/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson2/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson2/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson3/task1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson4/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/homework1/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/homework1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/homework1/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/homework2/game/hero/elf.java" afterDir="false" />
-    </list>
+    <list default="true" id="d103a693-ce20-4231-b03a-225ad51a87b5" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,8 +138,16 @@
       <workItem from="1669413114106" duration="356000" />
       <workItem from="1669413515812" duration="108000" />
       <workItem from="1669413639467" duration="94000" />
-      <workItem from="1669746803570" duration="316000" />
+      <workItem from="1669746803570" duration="671000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1669747343178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669747343178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
