@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d103a693-ce20-4231-b03a-225ad51a87b5" name="Changes" comment="init">
+    <list default="true" id="d103a693-ce20-4231-b03a-225ad51a87b5" name="Changes" comment="hw123">
+      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson5/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson5/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson5/PizzaTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson5/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/telrun/alexandrov/artjom/lesson5/convertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/homework3/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/homework4/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/homework4/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/homework4/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/homework4/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/homework4/task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/de/telrun/alexandrov/artjom/lesson4/task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/de/telrun/alexandrov/artjom/lesson4/task.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,69 +38,33 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HbETwIOdvOIkYsX3YHOPDlO3dA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.task">
-    <configuration name="homework.homework1.task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.homework1.task1" />
-      <module name="JavaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.homework1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework.homework1.task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.homework1.task2" />
-      <module name="JavaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.homework1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.alexandrov.artjom.lesson4.task" />
-      <module name="JavaCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telrun.alexandrov.artjom.lesson4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.task5">
     <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.alexandrov.artjom.lesson2.task1" />
+      <option name="MAIN_CLASS_NAME" value="homework.homework4.task1" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.alexandrov.artjom.lesson2.*" />
+          <option name="PATTERN" value="homework.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +73,50 @@
       </method>
     </configuration>
     <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telrun.alexandrov.artjom.lesson2.task2" />
+      <option name="MAIN_CLASS_NAME" value="homework.homework4.task2" />
       <module name="JavaCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.telrun.alexandrov.artjom.lesson2.*" />
+          <option name="PATTERN" value="homework.homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homework4.task3" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homework4.task4" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.homework4.task5" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task" />
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.task4" />
         <item itemvalue="Application.task2" />
-        <item itemvalue="Application.homework.homework1.task1" />
-        <item itemvalue="Application.homework.homework1.task2" />
         <item itemvalue="Application.task1" />
+        <item itemvalue="Application.task3" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +155,9 @@
       <workItem from="1669413114106" duration="356000" />
       <workItem from="1669413515812" duration="108000" />
       <workItem from="1669413639467" duration="94000" />
-      <workItem from="1669746803570" duration="1334000" />
+      <workItem from="1669746803570" duration="3704000" />
+      <workItem from="1669918068727" duration="8119000" />
+      <workItem from="1670164549837" duration="3721000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1669747343178</created>
@@ -163,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669747640616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw123">
+      <created>1669748684136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669748684136</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +206,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="hw123" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw123" />
   </component>
 </project>
