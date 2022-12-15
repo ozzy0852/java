@@ -1,20 +1,19 @@
 package homework.homework5;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class task5 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int Country = scanner.nextInt();
-        boolean isLorry = scanner.nextBoolean();
-        boolean num = Country % 2 == 0;
-        System.out.println(num);
-        if (num) {
-            System.out.println("можно заезжать машине в город");
+        Random random = new Random();
+        int number = random.nextInt(1, 10000);
+        boolean isLorry = random.nextBoolean();
+        System.out.printf("номер %s грузовик? %s\n", number, isLorry);
+        // машина легковая = не грузовая и номер машины четный
+        if (!isLorry && number % 2 == 0) {
+            System.out.println("можно");
+        } else {
+            System.out.println("нельзя");
         }
-        else {
-            System.out.println("нельзя заезжать на машине в город");
-        }
-
     }
 }
